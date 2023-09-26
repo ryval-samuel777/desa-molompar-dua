@@ -79,6 +79,11 @@ main {
     gap: 1.5rem;
 }
 
+main p {
+
+    text-align: justify;
+
+}
 
 /* footer  */
 footer {
@@ -108,7 +113,7 @@ footer {
 
 h1,
 h2,
-h3, 
+h3,
 a {
     color: var(--text-color);
 }
